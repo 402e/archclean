@@ -27,3 +27,8 @@ To install the dependencies:
 
 ```bash
 sudo pacman -S zsh yay pacman-contrib
+```
+
+## License
+
+This project is licensed under the MIT License.
